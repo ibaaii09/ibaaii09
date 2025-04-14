@@ -18,7 +18,7 @@ Hola, soy Ibai C.E., un estudiante de DAM al que le apasiona todo lo relacionado
  
 A continuación, puedes agregar o eliminar badges (insignias). Reemplaza el nombre de la tecnología y la URL de la imagen si lo deseas.
  
-![JAVA](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
+![JAVA](https://img.shields.io/badge/-JAVA-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Lenguaje/Tech3](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
 ![Herramienta/Tech4](https://img.shields.io/badge/-[TECH]-[COLOR]?logo=[LOGO]&logoColor=white&style=flat)
@@ -44,8 +44,6 @@ A continuación, puedes agregar o eliminar badges (insignias). Reemplaza el nomb
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](URL_PERFIL_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](URL_PERFIL_TWITTER)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:TUCORREO@ejemplo.com)
- 
-*(Agrega o quita las redes que te interesen.)*
  
 ---
  
